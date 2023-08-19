@@ -1,5 +1,4 @@
 import React from 'react'
-import 'bootstrap/dist/css/bootstrap.min.css';
 import * as Icons from 'react-bootstrap-icons'
 import hi from '../assest/hicon.png'
 function Accioform() {
