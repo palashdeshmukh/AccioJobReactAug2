@@ -21,7 +21,7 @@ function Accioform() {
 
 </form>
 
-<p className="text-dark w-100 text-center pt-4 pb-2">Don't have and account?<a href="#" className="text-primary text-decoration-none"> Sign up</a></p>
+<p className="text-dark w-100 text-center pt-4 pb-2">Don't have and account?<a href="https://www.gmail.com" className="text-primary text-decoration-none"> Sign up</a></p>
 
     </div>
     </div>
